@@ -1,0 +1,54 @@
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\appsettings.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.exe
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.deps.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.runtimeconfig.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.pdb
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.AssemblyReference.cache
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.AssemblyInfoInputs.cache
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.AssemblyInfo.cs
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.CoreCompileInputs.cache
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\scopedcss\bundle\SuperHeroAPI.styles.css
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.CopyComplete
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\refint\SuperHeroAPI.dll
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.pdb
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.genruntimeconfig.cache
+D:\Projects\.Net\test Projects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\ref\SuperHeroAPI.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\appsettings.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.exe
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.deps.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.runtimeconfig.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.pdb
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.AssemblyReference.cache
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.AssemblyInfoInputs.cache
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.AssemblyInfo.cs
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.CoreCompileInputs.cache
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\scopedcss\bundle\SuperHeroAPI.styles.css
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.csproj.CopyComplete
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\refint\SuperHeroAPI.dll
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.pdb
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.genruntimeconfig.cache
+F:\Proj\ASP\testProjects\SuperHero_API\SuperHeroAPI\obj\Debug\net6.0\ref\SuperHeroAPI.dll
