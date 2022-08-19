@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Jw3st6oIThs4zO0ReKe8mIqN2BeZzSSSJiGl37emOipkEZJSwWf01NZNcz7ooKudGRiAryw2MkSl3WHCTXl0lA==",
+  "dgSpecHash": "5ocKG+ZeSVmlVuauQmE7D44GwGIXxTcy1FNs7cNpwpjacIkIHJIwK0rtbJNdePSGE4s/QfknDK2Xq5HUT/U2eg==",
   "success": true,
   "projectFilePath": "D:\\Projects\\.Net\\test Projects\\EmpDep_AngDotnet\\EmpDep_AngDotnet\\EmpDep_AngDotnet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\RashmikaS\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.28\\microsoft.aspnetcore.jsonpatch.3.1.28.nupkg.sha512",
+    "C:\\Users\\RashmikaS\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.28\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.28.nupkg.sha512",
+    "C:\\Users\\RashmikaS\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\RashmikaS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RashmikaS\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
