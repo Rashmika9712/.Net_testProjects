@@ -44,4 +44,12 @@ export class SharedService {
   deleteEmployee(val:any){
     return this.http.delete(this.APIUrl+'/Employee/'+val);
   }
+
+  UploadPhoto(val:any){
+    return this.http.post(this.APIUrl+'/Employee/SaveFile', val);
+  }
+
+  geAllDepartmentNames():Observable<any[]>{
+    return this.http.get<any[]>(this.APIUrl+'/Employee/GetAllDepartmentNames');
+  }
 }
