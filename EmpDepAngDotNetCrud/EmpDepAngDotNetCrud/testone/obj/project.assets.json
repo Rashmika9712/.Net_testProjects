@@ -699,11 +699,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
+      "projectUniqueName": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
       "projectName": "testone",
-      "projectPath": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
+      "projectPath": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
       "packagesPath": "C:\\Users\\RashmikaS\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\testone\\obj\\",
+      "outputPath": "D:\\Projects\\.Net\\test Projects\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RashmikaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
