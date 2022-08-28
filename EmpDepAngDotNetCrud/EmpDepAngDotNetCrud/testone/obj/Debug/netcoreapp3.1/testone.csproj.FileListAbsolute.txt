@@ -28,3 +28,33 @@ D:\Projects\.Net\test Projects\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3
 D:\Projects\.Net\test Projects\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\.Net\test Projects\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Projects\.Net\test Projects\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.csproj.CopyComplete
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.exe
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.deps.json
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.runtimeconfig.json
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.runtimeconfig.dev.json
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\testone.pdb
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.csproj.AssemblyReference.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.AssemblyInfoInputs.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.AssemblyInfo.cs
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.csproj.CoreCompileInputs.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.MvcApplicationPartsAssemblyInfo.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\staticwebassets\testone.StaticWebAssets.Manifest.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.RazorTargetAssemblyInfo.cache
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.csproj.CopyComplete
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.dll
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.pdb
+F:\Proj\ASP\testProjects\EmpDepAngDotNetCrud\EmpDepAngDotNetCrud\testone\obj\Debug\netcoreapp3.1\testone.genruntimeconfig.cache
