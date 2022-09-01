@@ -1,0 +1,151 @@
+{
+    "Family": [
+        {
+            "id": 1,
+            "name": "Jhon Smith",
+            "generation": 1,
+            "age": 22,
+            "city": "veyangoda",
+            "sex": "male",
+            "marriedWife": [
+                {
+                    "name": "karina Smith",
+                    "wifeImg": "https://img.favpng.com/5/3/13/muslim-wife-child-islam-clip-art-png-favpng-NQXJhqMySfDKj44EwNMnPYpKr.jpg",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.",
+                    "children": [
+                        {
+                            "id": 101,
+                            "name": "Michael Smith",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://thumbs.dreamstime.com/b/boy-cartoon-character-cute-funny-child-waving-hand-fun-concept-happy-kid-colorful-vector-illustration-152106533.jpg"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Diana Smith",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://cdn3.vectorstock.com/i/1000x1000/88/37/cute-boy-waving-cartoon-vector-16668837.jpg"
+                        }
+                    ]
+                }
+            ],
+            "exWife": [
+                {
+                    "name": " Rashmika Smith",
+                    "wifeImg": "https://t3.ftcdn.net/jpg/02/45/34/90/360_F_245349044_TMxmWxPpnSzeuauvvQnuFe03ueXgS57m.jpg",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.",
+                    "children": [
+                        {
+                            "id": 103,
+                            "name": "mical Smith",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://w7.pngwing.com/pngs/840/621/png-transparent-cartoon-child-illustration-cartoon-children-cartoon-character-child-photography.png"
+                        }
+                    ]
+                }
+            ],
+            "imageURL": "https://img.freepik.com/free-vector/business-man-cartoon-character-smart-clothes-office-style_51635-5680.jpg?w=2000",
+            "description": "I was born on January 11, 1999 in Miami, Florida. I spent most of my early childhood with my grandparents while my parents worked. "
+        },
+        {
+            "id": 2,
+            "name": "Andrew Fuller",
+            "generation": 1,
+            "age": 26,
+            "city": "Gampaha",
+            "sex": "male",
+            "marriedWife": [
+                {
+                    "name": "jenifer Fuller",
+                    "wifeImg": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX30881140.jpg",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time. a wife is a female in a marital relationship and wife is referred to as a widow ",
+                    "children": [
+                        {
+                            "id": 104,
+                            "name": "Michael Fuller",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://thumbs.dreamstime.com/b/boy-cartoon-character-cute-funny-child-waving-hand-fun-concept-happy-kid-colorful-vector-illustration-152106533.jpg"
+                        }
+                    ]
+                }
+            ],
+            "exWife": [
+                {
+                    "name": "Marina Fuller",
+                    "wifeImg": "https://www.collegechalo.com/news/wp-content/uploads/2021/10/Collegestudentfea.png",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.",
+                    "children": [
+                        {
+                            "id": 105,
+                            "name": "daniel Fuller",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "http://st.depositphotos.com/1967477/2797/v/450/depositphotos_27977129-Cartoon-boy-giving-you-thumbs-up.jpg"
+                        },
+                        {
+                            "id": 106,
+                            "name": "Diana Fuller",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://www.pngitem.com/pimgs/m/150-1500023_teen-clipart-teenager-cartoon-teenage-girl-clipart-png.png"
+                        }
+                    ]
+                }
+            ],
+            "imageURL": "https://img.freepik.com/free-vector/man-profile-cartoon_18591-58482.jpg",
+            "description": "I was born on January 11, 1999 in Miami, Florida. I spent most of my early childhood with my grandparents while my parents worked. My grandfather would wake up in the morning to make sure my brother and I went to school safe and by the time we finished there was always a homemade meal waiting for us, it was something I looked forward to I was born on January 11, 1999 in Miami, Florida. I spent most of my early childhood with my grandparents while my parents worked. My grandfather would wake up in the morning to make sure my brother and I went to school safe and by the time we finished there was always a homemade meal waiting for us, it was something I looked forward to. In spite of us having had a language barrier and them no longer being around the influence they instilled on me is tremendous. From them I learned to have the strength to deal with other challenging obstacles life had to offer. Since my brother has been around throughout most of my life as well, it would be "
+        },
+        {
+            "id": 3,
+            "name": "Selena Mandana",
+            "generation": 1,
+            "age": 32,
+            "city": "Kandy",
+            "sex": "female",
+            "marriedWife": [
+                {
+                    "name": "jenifer Anderson",
+                    "wifeImg": "https://img.favpng.com/5/3/13/muslim-wife-child-islam-clip-art-png-favpng-NQXJhqMySfDKj44EwNMnPYpKr.jpg",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.",
+                    "children": [
+                        {
+                            "id": 107,
+                            "name": "Michael Anderson",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://thumbs.dreamstime.com/b/boy-cartoon-character-cute-funny-child-waving-hand-fun-concept-happy-kid-colorful-vector-illustration-152106533.jpg"
+                        }
+                    ]
+                }
+            ],
+            "exWife": [
+                {
+                    "name": "Marina Anderson",
+                    "wifeImg": "https://img.favpng.com/5/3/13/muslim-wife-child-islam-clip-art-png-favpng-NQXJhqMySfDKj44EwNMnPYpKr.jpg",
+                    "description": "A wife is a female in a marital relationship. A woman who has separated from her partner continues to be a wife until the marriage is legally dissolved with a divorce judgement. On the death of her partner, a wife is referred to as a widow. The rights and obligations of a wife in relation to her partner and her status in the community and in law vary between cultures and have varied over time.",
+                    "children": [
+                        {
+                            "id": 108,
+                            "name": "Michael Anderson",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://thumbs.dreamstime.com/b/boy-cartoon-character-cute-funny-child-waving-hand-fun-concept-happy-kid-colorful-vector-illustration-152106533.jpg"
+                        },
+                        {
+                            "id": 109,
+                            "name": "Diana Anderson",
+                            "generation": 2,
+                            "children": null,
+                            "imageURL": "https://cdn3.vectorstock.com/i/1000x1000/88/37/cute-boy-waving-cartoon-vector-16668837.jpg"
+                        }
+                    ]
+                }
+            ],
+            "imageURL": "https://c8.alamy.com/zooms/9/9cb567efef6a4580a5a6a8bba2065ed4/2aenrme.jpg",
+            "description": "I was born on January 11, 1999 in Miami, Florida. I spent most of my early childhood with my grandparents while my parents worked. My grandfather would wake up in the morning to make sure my brother and I went to school safe and by the time we finished there was always a homemade meal waiting for us, it was something I looked forward to I was born on January 11, 1999 in Miami, Florida. I spent most of my early childhood with my grandparents while my parents worked. My grandfather would wake up in the morning to make sure my brother and I went to school safe and by the time we finished there was always a homemade meal waiting for us, it was something I looked forward to. In spite of us having had a language barrier and them no longer being around the influence they instilled on me is tremendous. From them I learned to have the strength to deal with other challenging obstacles life had to offer. Since my brother has been around throughout most of my life as well, it would be "
+        }
+    ]
+}
