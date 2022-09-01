@@ -1,0 +1,60 @@
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe.config
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.pdb
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.AssemblyReference.cache
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.SuggestedBindingRedirects.cache
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CoreCompileInputs.cache
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.exe
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.pdb
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Compat.dll
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.dll
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.xml
+C:\Users\KasunS\source\repos\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CopyComplete
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe.config
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.pdb
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Compat.dll
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.dll
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.xml
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.AssemblyReference.cache
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.SuggestedBindingRedirects.cache
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CoreCompileInputs.cache
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CopyComplete
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.exe
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.pdb
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.OpenSource.Export.PdfSimple.dll
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Data.Json.dll
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.dll
+D:\EmblaStudy\.NETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.xml
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe.config
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.pdb
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Compat.dll
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Data.Json.dll
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.dll
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.OpenSource.Export.PdfSimple.dll
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.dll
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.xml
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.xml
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.AssemblyReference.cache
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.SuggestedBindingRedirects.cache
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CoreCompileInputs.cache
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CopyComplete
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.exe
+D:\EmblaStudy\DotNETCoreConsoleApplications\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.pdb
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe.config
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.exe
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\sample_Fast_Report.pdb
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Compat.dll
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.Data.Json.dll
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.dll
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.OpenSource.Export.PdfSimple.dll
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.dll
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\FastReport.xml
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\bin\Debug\Newtonsoft.Json.xml
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.AssemblyReference.cache
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.SuggestedBindingRedirects.cache
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CoreCompileInputs.cache
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.csproj.CopyComplete
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.exe
+D:\Embla\Book Report\old Code\EmblaFtReport\sample_Fast_Report\sample_Fast_Report\obj\Debug\sample_Fast_Report.pdb
