@@ -1,5 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using BookReportTest.Servicers;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Hosting;
 
 namespace BookReportTest.Controllers
 {
@@ -7,36 +8,59 @@ namespace BookReportTest.Controllers
     [ApiController]
     public class BookReportController : ControllerBase
     {
-        public BookReportController()
+        private readonly IBookReportService _bookReportService;
+        public BookReportController(IBookReportService bookReportService)
         {
+            _bookReportService = bookReportService;
         }
 
         [HttpGet]
         [Route("{reportName}/last")]
-        public ActionResult GetLast()
+        public IActionResult GetLast(string reportName)
         {
-            return Ok();
+            var report = _bookReportService.GetLast(reportName);
+            if (report == null) 
+            {
+                return BadRequest();
+            }
+            //return Json(new { data = "sdf" });
+            return Ok(report);
         }
 
         [HttpPost]
         [Route("{reportName}/{lang}")]
-        public ActionResult Create()
+        public ActionResult Create(string lang, string reportName)
         {
-            return Ok();
+            var report = _bookReportService.Create(lang, reportName);
+            if (report == null)
+            {
+                return BadRequest();
+            }
+            return Ok(report);
         }
 
         [HttpGet]
-        [Route("{reporId}/{pageNumber}/data")]
-        public ActionResult GetPage()
+        [Route("{reportId}/{pageNumber}/data")]
+        public ActionResult GetPage(int reportId, int pageNumber)
         {
-            return Ok();
+            var report = _bookReportService.GetPage(reportId, pageNumber);
+            if (report == null)
+            {
+                return BadRequest();
+            }
+            return Ok(report);
         }
 
         [HttpGet]
         [Route("{reportId}")]
-        public ActionResult Get()
+        public ActionResult Get(int reportId)
         {
-            return Ok();
+            var report = _bookReportService.GetReport(reportId);
+            if (report == null)
+            {
+                return BadRequest();
+            }
+            return Ok(report);
         }
     }
 }
