@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" TextQuality="Regular" ReportInfo.Name="Simple List" ReportInfo.Author="Fast Reports Inc" ReportInfo.Description="Demonstrates a simple list report. To create it:&#13;&#10;- go to &quot;Data&quot; menu and select &quot;Choose Report Data...&quot; item to select a datasource;&#13;&#10;- go to &quot;Report|Configure Bands...&quot; menu to create the band structure;&#13;&#10;- return to the report page, doubleclick the data band to show its editor;&#13;&#10;- choose the datasource;&#13;&#10;- drag data from the Data Dictionary window to the band." ReportInfo.Created="01/17/2008 03:05:57" ReportInfo.Modified="09/04/2022 15:50:15" ReportInfo.CreatorVersion="2022.2.17.0">
+  <Dictionary>
+    <JsonDataSourceConnection Name="Person" ConnectionString="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">
+      <JsonTableDataSource Name="JSON" DataType="FastReport.Data.JsonConnection.JsonParser.JsonArray" Enabled="true" TableName="JSON">
+        <Column Name="index" DataType="System.Int32"/>
+        <Column Name="item" DataType="FastReport.JsonBase">
+          <Column Name="id" DataType="System.String"/>
+          <Column Name="picture" DataType="System.String"/>
+          <Column Name="age" DataType="System.Double"/>
+          <Column Name="name" DataType="System.String"/>
+          <Column Name="gender" DataType="System.String"/>
+          <Column Name="company" DataType="System.String"/>
+          <Column Name="email" DataType="System.String"/>
+          <Column Name="phone" DataType="System.String"/>
+          <Column Name="address" DataType="System.String"/>
+          <Column Name="about" DataType="System.String"/>
+        </Column>
+        <Column Name="array" DataType="FastReport.JsonBase"/>
+      </JsonTableDataSource>
+    </JsonDataSourceConnection>
+    <TableDataSource Name="Employees" ReferenceName="NorthWind.Employees" DataType="System.Int32" Enabled="true">
+      <Column Name="EmployeeID" DataType="System.Int32"/>
+      <Column Name="LastName" DataType="System.String"/>
+      <Column Name="FirstName" DataType="System.String"/>
+      <Column Name="Title" DataType="System.String"/>
+      <Column Name="TitleOfCourtesy" DataType="System.String"/>
+      <Column Name="BirthDate" DataType="System.DateTime"/>
+      <Column Name="HireDate" DataType="System.DateTime"/>
+      <Column Name="Address" DataType="System.String"/>
+      <Column Name="City" DataType="System.String"/>
+      <Column Name="Region" DataType="System.String"/>
+      <Column Name="PostalCode" DataType="System.String"/>
+      <Column Name="Country" DataType="System.String"/>
+      <Column Name="HomePhone" DataType="System.String"/>
+      <Column Name="Extension" DataType="System.String"/>
+      <Column Name="Photo" DataType="System.Byte[]" BindableControl="Picture"/>
+      <Column Name="Notes" DataType="System.String"/>
+      <Column Name="ReportsTo" DataType="System.Int32"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="56.7" CanGrow="true">
+      <TextObject Name="Text1" Top="9.45" Width="718.2" Height="47.25" Text="EMPLOYEES" HorzAlign="Center" VertAlign="Center" Font="Tahoma, 14pt, style=Bold"/>
+      <ChildBand Name="Child2" Top="60.7" Width="718.2" Height="18.9"/>
+    </ReportTitleBand>
+    <DataBand Name="Data1" Top="83.6" Width="718.2" Height="360.99" Border.Lines="All" Border.Color="Maroon" CanGrow="true" DataSource="JSON">
+      <TextObject Name="Text3" Left="9.45" Top="75.6" Width="103.95" Height="18.9" Text="Age : " VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text7" Left="9.45" Top="132.3" Width="103.95" Height="18.9" Text="Phone :" VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <PictureObject Name="Picture1" Left="576.45" Top="47.25" Width="132.3" Height="162.54" Border.Lines="All" Border.Color="Maroon" CanGrow="true" CanShrink="true" DataColumn="JSON.item.picture"/>
+      <TextObject Name="Text13" Left="141.75" Top="47.25" Width="425.25" Height="18.9" Text="[JSON.item.name]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text15" Left="9.45" Top="47.25" Width="103.95" Height="18.9" Text="Name :" VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text16" Left="9.45" Top="103.95" Width="103.95" Height="18.9" Text="Gender : " VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text17" Left="9.45" Top="264.6" Width="103.95" Height="18.9" Text="About : " Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text2" Width="718.2" Height="37.8" Border.Lines="All" Border.Color="Maroon" Fill.Color="ForestGreen" Text="[JSON.item.name]" Padding="10, 0, 2, 0" VertAlign="Center" Font="Tahoma, 12pt, style=Bold" TextFill.Color="White"/>
+      <TextObject Name="Text5" Left="9.45" Top="226.8" Width="103.95" Height="18.9" Text="Address:" VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text18" Left="9.45" Top="160.65" Width="103.95" Height="18.9" Text="Email :" VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text19" Left="9.45" Top="189" Width="103.95" Height="18.9" Text="Company : " VertAlign="Center" Font="Tahoma, 9pt, style=Bold"/>
+      <TextObject Name="Text21" Left="141.75" Top="103.95" Width="425.25" Height="18.9" Text="[JSON.item.gender]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text22" Left="141.75" Top="132.3" Width="425.25" Height="18.9" Text="[JSON.item.phone]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text23" Left="141.75" Top="160.65" Width="425.25" Height="18.9" Text="[JSON.item.email]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text24" Left="141.75" Top="189" Width="425.25" Height="18.9" Text="[JSON.item.company]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text25" Left="141.75" Top="226.8" Width="567" Height="18.9" Text="[JSON.item.address]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text26" Left="141.75" Top="264.6" Width="567" Height="75.6" Text="[JSON.item.about]" Format="Date" Format.Format="d" VertAlign="Center" Font="Tahoma, 9pt"/>
+      <TextObject Name="Text27" Left="141.75" Top="75.6" Width="425.25" Height="18.9" Fill.Color="White" Text="[JSON.item.age]" Font="Arial, 10pt"/>
+      <ChildBand Name="Child1" Top="448.59" Width="718.2" Height="28.35" Fill.Color="MediumSeaGreen"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="480.94" Width="718.2" Height="28.35" Fill.Color="Gray" CanGrow="true">
+      <TextObject Name="Text10" Left="614.25" Width="94.5" Height="28.35" Fill.Color="White" Text="[PageN]" HorzAlign="Right" VertAlign="Center" Font="Tahoma, 8pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>
